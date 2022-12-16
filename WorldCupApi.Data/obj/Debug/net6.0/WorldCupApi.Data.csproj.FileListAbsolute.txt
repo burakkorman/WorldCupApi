@@ -1,0 +1,15 @@
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Data.deps.json
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Data.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Data.pdb
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.csproj.AssemblyReference.cache
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.AssemblyInfoInputs.cache
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.AssemblyInfo.cs
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.csproj.CoreCompileInputs.cache
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/refint/WorldCupApi.Data.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.pdb
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/ref/WorldCupApi.Data.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Repository.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Repository.pdb
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.csproj.CopyComplete

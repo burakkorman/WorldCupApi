@@ -1,0 +1,17 @@
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Application.deps.json
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Application.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Application.pdb
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Data.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Data.pdb
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.csproj.AssemblyReference.cache
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.AssemblyInfoInputs.cache
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.AssemblyInfo.cs
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.csproj.CoreCompileInputs.cache
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.csproj.CopyComplete
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/refint/WorldCupApi.Application.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/WorldCupApi.Application.pdb
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/obj/Debug/net6.0/ref/WorldCupApi.Application.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Repository.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Application/bin/Debug/net6.0/WorldCupApi.Repository.pdb
