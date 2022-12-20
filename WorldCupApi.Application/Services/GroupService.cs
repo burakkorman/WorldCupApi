@@ -1,6 +1,7 @@
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using WorldCupApi.Application.Services.Interfaces;
+using WorldCupApi.Data.Errors;
 using WorldCupApi.Data.Models.CommandModels.RequestModel.Group;
 using WorldCupApi.Data.Models.QueryModels.ResponseModel.Group;
 using WorldCupApi.Repository.Entities;
@@ -22,13 +23,17 @@ public class GroupService : IGroupService
     public async Task<List<GetGroupResponse>> GetAll()
     {
         var result = await _groupRepository.GetAll().OrderBy(x => x.Name).ToListAsync();
+
+        if (result is null)
+            throw new WorldCupException(CustomError.E_101);
+
         return _mapper.Map<List<GetGroupResponse>>(result);
     }
 
     public async Task<GetGroupResponse> Get(Guid id)
     {
         var group = await _groupRepository.GetById(id);
-        return _mapper.Map<GetGroupResponse>(group) ?? throw new Exception("Grup bulunamadı");
+        return _mapper.Map<GetGroupResponse>(group) ?? throw new WorldCupException(CustomError.E_101);
     }
 
     public async Task Create(CreateGroupCommand model)
@@ -36,7 +41,7 @@ public class GroupService : IGroupService
         var totalGroupCount = await _groupRepository.GetTotalGroupCount();
 
         if (totalGroupCount >= 8)
-            throw new Exception("Grup sayısı 8'den fazla olamaz");
+            throw new WorldCupException(CustomError.E_102);
 
         var group = _mapper.Map<Group>(model);
         await _groupRepository.Create(group);

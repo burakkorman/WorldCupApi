@@ -1,9 +1,8 @@
-using System.Reflection;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-using WorldCupApi.Application.Handler.QueryHandler.Group;
 using WorldCupApi.Application.Services.Interfaces;
 using WorldCupApi.Application.Services;
+using WorldCupApi.Data.Middlewares;
 using WorldCupApi.Repository.Entities;
 using WorldCupApi.Repository.Repositories;
 using WorldCupApi.Repository.Repositories.Interfaces;
@@ -44,6 +43,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<ExceptionMiddleware>();
 
 app.MapControllers();
 

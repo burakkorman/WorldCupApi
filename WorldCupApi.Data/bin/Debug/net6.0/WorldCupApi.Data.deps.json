@@ -10,7 +10,8 @@
         "dependencies": {
           "AutoMapper": "12.0.0",
           "MediatR": "11.1.0",
-          "WorldCupApi.Repository": "1.0.0"
+          "WorldCupApi.Repository": "1.0.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "6.0.0.0"
         },
         "runtime": {
           "WorldCupApi.Data.dll": {}
@@ -650,6 +651,38 @@
         "runtime": {
           "WorldCupApi.Repository.dll": {}
         }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/6.0.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1122.52304"
+          }
+        }
+      },
+      "Microsoft.Extensions.Features/6.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Features.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1122.52304"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/6.0.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1122.52304"
+          }
+        }
+      },
+      "System.IO.Pipelines/6.0.0.0": {
+        "runtime": {
+          "System.IO.Pipelines.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1122.52304"
+          }
+        }
       }
     }
   },
@@ -1116,6 +1149,26 @@
     },
     "WorldCupApi.Repository/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Features/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Features/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IO.Pipelines/6.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

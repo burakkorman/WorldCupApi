@@ -20,4 +20,10 @@
       <ProjectReference Include="..\WorldCupApi.Repository\WorldCupApi.Repository.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="Microsoft.AspNetCore.Http.Abstractions">
+        <HintPath>..\..\..\..\..\..\usr\local\share\dotnet\x64\packs\Microsoft.AspNetCore.App.Ref\6.0.11\ref\net6.0\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

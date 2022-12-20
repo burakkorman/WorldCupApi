@@ -13,3 +13,11 @@
 /Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Repository.dll
 /Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/WorldCupApi.Repository.pdb
 /Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/obj/Debug/net6.0/WorldCupApi.Data.csproj.CopyComplete
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/Microsoft.Extensions.Features.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/Microsoft.Extensions.Features.xml
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/Microsoft.AspNetCore.Http.Features.xml
+/Users/korman/Documents/projects/WorldCupApi/WorldCupApi.Data/bin/Debug/net6.0/System.IO.Pipelines.xml

@@ -1,6 +1,5 @@
 using WorldCupApi.Data.Models.CommandModels.RequestModel.Group;
 using WorldCupApi.Data.Models.QueryModels.ResponseModel.Group;
-using WorldCupApi.Repository.Entities;
 
 namespace WorldCupApi.Application.Services.Interfaces;
 
